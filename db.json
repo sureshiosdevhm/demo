@@ -1,47 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  
-  "profile": {
-    "name": "typicode"
-  },
-  
+{ 
   "users":[
     {
-      "id":001,
+      "id":1,
       "name":"Suresh",
       "email":"test1@gmail.com"
     },
     {
-      "id":002,
+      "id":2,
       "name":"Ramesh",
       "email":"test2@gmail.com"
     },
     {
-      "id":003,
+      "id":3,
       "name":"Rajesh",
       "email":"test3@gmail.com"
     },
     {
-      "id":004,
+      "id":4,
       "name":"Mukesh",
       "email":"test4@gmail.com"
     },
     {
-      "id":005,
+      "id":5,
       "name":"Jagadeesh",
       "email":"test5@gmail.com" 
     },
     {
-      "id":006,
+      "id":6,
       "name":"Mahesh",
       "email":"test6@gmail.com"
     }
