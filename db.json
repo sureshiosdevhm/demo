@@ -15,36 +15,35 @@
   },
   
   "users":[
-  {
-    "id":001,
-    "name":"Suresh",
-    "email":"test1@gmail.com",
-},
-{
-    "id":002,
-    "name":"Ramesh",
-    "email":"test2@gmail.com",
-},
-{
-    "id":003,
-    "name":"Rajesh",
-    "email":"test3@gmail.com",
-},
-{
-    "id":004,
-    "name":"Mukesh",
-    "email":"test4@gmail.com",
-},
-{
-    "id":005,
-    "name":"Jagadeesh",
-    "email":"test5@gmail.com",
-},
-{
-    "id":006,
-    "name":"Mahesh",
-    "email":"test6@gmail.com",
-}
-
-]
+    {
+      "id":001,
+      "name":"Suresh",
+      "email":"test1@gmail.com"
+    },
+    {
+      "id":002,
+      "name":"Ramesh",
+      "email":"test2@gmail.com"
+    },
+    {
+      "id":003,
+      "name":"Rajesh",
+      "email":"test3@gmail.com"
+    },
+    {
+      "id":004,
+      "name":"Mukesh",
+      "email":"test4@gmail.com"
+    },
+    {
+      "id":005,
+      "name":"Jagadeesh",
+      "email":"test5@gmail.com" 
+    },
+    {
+      "id":006,
+      "name":"Mahesh",
+      "email":"test6@gmail.com"
+    }
+  ]
 }
